@@ -5,7 +5,7 @@ Overview
 This repository contains the necessary resources and code for the development of a machine learning model to predict fraudulent transactions for a financial company. The dataset provided is in CSV format, consisting of 6362620 rows and 10 columns. The goal is to build a robust model that can identify and classify fraudulent transactions accurately.
 
 Dataset
-The dataset is available in the data directory in CSV format. It contains the following columns:
+The dataset is available in the kaggle dataset fraud.csv. It contains the following columns:
 
 TransactionID: Unique identifier for each transaction.
 TransactionDT: Transaction datetime.
